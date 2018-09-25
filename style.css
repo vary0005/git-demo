@@ -3,5 +3,9 @@
 }
 
 .subtitle {
-  color: rebeccapurple;
+  color: #663399;
+}
+
+p {
+  margin: 2rem 0;
 }
